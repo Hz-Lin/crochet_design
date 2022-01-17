@@ -4,8 +4,6 @@
 
 Hey! I am LinZi (Hz-Lin).
 
-In my part time I love playing music instruments. I play bamboo flute in a Chinese music group [@SweetPotatoNL](https://www.instagram.com/sweetpotatonl/).
-
 Since I am studying programming and a lot of people around me are doing IT related jobs, I begin to make IT related amigurumi (crocheted small stuffed toys). However I can not always find the crochet patterns online, so I start to design my own.
 
 In the past I published some patterns by using the name Evelina Del Bosque on Ravelry. Later I realise my designs of the Docker Whale and Gopher (from GoLang) became popular, and I receiving more request about these kind of designs.
@@ -20,13 +18,13 @@ You can find me on:
 - [Instagram](https://www.instagram.com/softiesfromlinzi/)
 - [Twitter](https://twitter.com/linzi_hz)
 
-I will try to keep all the IT related patterns free. But if you want to support me, you can also [Buy Me a Tea](https://www.buymeacoffee.com/hzlin)
+I will try to keep all the IT related patterns free. But if you want to support me, you can [Buy Me a Tea](https://www.buymeacoffee.com/hzlin)
 
 ## About this Repository
 
 Pease note that I will not add PDFs to this repository anymore. In stead I will add links of patterns to this MarkDown file. I will only share the links about IT related designs here, but you are also welcome to checking my other designs on my Blogger or Ravelry.
 
-There will be two sources of the patters:
+There will be two sources of the patterns:
 
 - my Blogger [softieslinzi.art](https://www.softieslinzi.art/), where you can see my patterns directly
 - my [Ravelry Pattern store](https://www.ravelry.com/designers/huizhi-lin), where you can download the pdf (you may need a Ravelry account)
@@ -35,7 +33,7 @@ There will be two sources of the patters:
 
 ### Duke, the Java Mascot
 
-[Duke, the Java Mascot](photos/Duke.jpeg)
+![Duke, the Java Mascot](photos/Duke.jpeg)
 
 - [Blogger Link](https://www.softieslinzi.art/2022/01/duke-java-mascot.html)
 - [Ravelry PDF](https://www.ravelry.com/patterns/library/duke-the-java-mascot)
