@@ -31,21 +31,18 @@ There will be two sources of the patterns:
 
 ## Patterns
 
-### Duke, the Java Mascot
-
-![Duke, the Java Mascot](photos/Duke.jpeg)
-
-- [Blogger Link](https://www.softieslinzi.art/2022/01/duke-java-mascot.html)
-- [Ravelry PDF](https://www.ravelry.com/patterns/library/duke-the-java-mascot)
-
-
 ### Raspberry Pi Logo Amigurumi
 
 ![Raspberry Pi Logo Amigurumi](photos/RasberryPi.jpg)
 
 - [Blogger Link](https://www.softieslinzi.art/2022/02/raspberry-pi-logo-amigurumi.html)
 - [Ravelry PDF](https://www.ravelry.com/patterns/library/raspberry-pi-logo-amigurumi)
+### Duke, the Java Mascot
 
+![Duke, the Java Mascot](photos/Duke.jpeg)
+
+- [Blogger Link](https://www.softieslinzi.art/2022/01/duke-java-mascot.html)
+- [Ravelry PDF](https://www.ravelry.com/patterns/library/duke-the-java-mascot)
 
 ## Old Patterns
 
@@ -63,7 +60,6 @@ PDF from Ravelry:
 I plan to create more patterns. Here are some ideas
 
 - Octocat from GitHub (I made this before, but I did not write down the pattern)
-- Raspberry Pi logo. I already made this, but the pattern is complicated due to the frequently colour changing and bubble stitch. I need more time to make the pattern easy to understand
 - Ferris from Rust
 - Puffy from OpenBSD
 - GEEKO from SUSE
