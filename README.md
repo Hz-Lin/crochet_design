@@ -38,6 +38,15 @@ There will be two sources of the patterns:
 - [Blogger Link](https://www.softieslinzi.art/2022/01/duke-java-mascot.html)
 - [Ravelry PDF](https://www.ravelry.com/patterns/library/duke-the-java-mascot)
 
+
+### Raspberry Pi Logo Amigurumi
+
+![Raspberry Pi Logo Amigurumi](photos/RasberryPi.jpg)
+
+- [Blogger Link](https://www.softieslinzi.art/2022/02/raspberry-pi-logo-amigurumi.html)
+- [Ravelry PDF](https://www.ravelry.com/patterns/library/raspberry-pi-logo-amigurumi)
+
+
 ## Old Patterns
 
 Here are the patterns I created in the past. I am currently reviewing them. You can still find these old PDFs in this repository.
