@@ -37,12 +37,20 @@ There will be two sources of the patterns:
 
 - [Blogger Link](https://www.softieslinzi.art/2022/02/raspberry-pi-logo-amigurumi.html)
 - [Ravelry PDF](https://www.ravelry.com/patterns/library/raspberry-pi-logo-amigurumi)
+  ß
 ### Duke, the Java Mascot
 
 ![Duke, the Java Mascot](photos/Duke.jpeg)
 
 - [Blogger Link](https://www.softieslinzi.art/2022/01/duke-java-mascot.html)
 - [Ravelry PDF](https://www.ravelry.com/patterns/library/duke-the-java-mascot)
+
+### Kubernetes and Tanzu logo keychain
+
+![Kubernetes and Tanzu logo keychain](photos/Kubernetes.jpg)
+
+- [Blogger Link](https://www.softieslinzi.art/2022/03/kubernetes-and-tanzu-keychain.html)
+- [Ravelry PDF](https://www.ravelry.com/patterns/library/kubernetes-and-tanzu-keychain)
 
 ## Old Patterns
 
