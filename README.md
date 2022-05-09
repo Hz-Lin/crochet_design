@@ -33,6 +33,11 @@ There will be two sources of the patterns:
 
 ### Raspberry Pi Logo Amigurumi
 
+![Octocat - Github Mascot](photos/Octocat.jpg)
+
+- [Blogger Link](https://www.softieslinzi.art/2022/05/octocat-github-mascot.html)
+- [Ravelry PDF](https://www.ravelry.com/patterns/library/octocat-the-github-mascot)
+
 ![Raspberry Pi Logo Amigurumi](photos/RasberryPi.jpg)
 
 - [Blogger Link](https://www.softieslinzi.art/2022/02/raspberry-pi-logo-amigurumi.html)
