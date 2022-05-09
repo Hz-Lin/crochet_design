@@ -31,7 +31,7 @@ There will be two sources of the patterns:
 
 ## Patterns
 
-### Raspberry Pi Logo Amigurumi
+### Octocat - Github Mascot Amigurumi
 
 ![Octocat - Github Mascot](photos/Octocat.jpg)
 
