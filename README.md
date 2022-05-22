@@ -72,7 +72,6 @@ PDF from Ravelry:
 
 I plan to create more patterns. Here are some ideas
 
-- Octocat from GitHub (I made this before, but I did not write down the pattern)
 - Ferris from Rust
 - Puffy from OpenBSD
 - GEEKO from SUSE
