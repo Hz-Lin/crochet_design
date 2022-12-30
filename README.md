@@ -35,7 +35,7 @@ There will be two sources of the patterns:
 
 ### Docker Whale
 
-![Docker Whale](photos/Docker Whale.jpg)
+![Docker Whale](photos/DockerWhale.jpg)
 
 - [Blogger Link](https://www.ravelry.com/patterns/library/docker-whale-amigurumi)
 - [Ravelry PDF](https://www.ravelry.com/patterns/library/docker-whale-amigurumi)
@@ -49,7 +49,7 @@ There will be two sources of the patterns:
 
 ### Duke, the Java Mascot
 
-![Duke, the Java Mascot](photos/Java-Duke.jpeg)
+![Duke, the Java Mascot](photos/Java-Duke.jpg)
 
 - [Blogger Link](https://www.softieslinzi.art/2022/12/duke-java-mascot_30.html)
 - [Ravelry PDF](https://www.ravelry.com/patterns/library/duke-the-java-mascot)
