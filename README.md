@@ -1,6 +1,6 @@
 # IT-Related Crochet Amigurumi Designs
 
-![IT-Related Crochet Amigurumi](photos/All.jpg)
+![IT-Related Crochet Amigurumi](photos/All.jpeg)
 
 ## About Me
 
