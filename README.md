@@ -1,6 +1,6 @@
 # IT-Related Crochet Amigurumi Designs
 
-![IT-Related Crochet Amigurumi](photos/All.jpeg)
+![IT-Related Crochet Amigurumi](photos/All.jpg)
 
 ## About Me
 
@@ -68,6 +68,13 @@ There will be two sources of the patterns:
 - [Blogger Link](https://www.softieslinzi.art/2022/12/tux-from-linux.html)
 - [Ravelry PDF](https://www.ravelry.com/patterns/library/tux-from-linux)
 
+### Ferris from Rust
+
+![Ferris from Rust](photos/Rust-Ferris.jpg)
+
+- [Blogger Link](https://www.softieslinzi.art/2023/01/ferris-from-rust.html)
+- [Ravelry PDF](https://www.ravelry.com/patterns/library/ferris-from-rust)
+  
 ### Raspberry Pi Logo Amigurumi
 
 ![Raspberry Pi Logo Amigurumi](photos/RasberryPi.jpg)
