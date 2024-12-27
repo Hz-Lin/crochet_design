@@ -70,7 +70,7 @@ There will be two sources of the patterns:
 
 ### Ferris from Rust
 
-![Ferris from Rust](photos/Rust-Ferris.jpg)
+![Ferris from Rust](photos/Rust-Ferris.JPG)
 
 - [Blogger Link](https://www.softieslinzi.art/2023/01/ferris-from-rust.html)
 - [Ravelry PDF](https://www.ravelry.com/patterns/library/ferris-from-rust)
